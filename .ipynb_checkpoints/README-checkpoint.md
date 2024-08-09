@@ -1,44 +1,4 @@
 
-# Executive Summary 
-### Athletics sales in the US
-
-
-
-
-### Two main cities for athletic products wear sales:
--   **New York**
--   **Houston**
-![Cities Sales](Total_Product_Sold.png)
-
-
-### Determine the top retailers for athletic wear:
-
-
-**Top retailers show the most significant total sales for athletic wear.**
-
-![Top Retailers](Top_retailers.png)
-
-
-
-
-**The retailer has the highest total sales.**
-
-![Total Sales by Retailers](Total_Sales_by_retailer.png)
-
-
-
-**Here are the retailers that sell women’s athletic footwear the most.**
-
-
-![Women Sales ](Women_Unit_Sold.png)
-
-
- **Summary of the sales trends for women's athletic footwear in a Day & Week.**
- 
-![Day_Weeks](Day_Week_Sales.png)
-
-
- 
 Homework Module 5
 
 ### Background
