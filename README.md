@@ -235,3 +235,4 @@ The sales product data above was modified by edX Boot Camps LLC, and is intended
 
 [https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime]
 [https://datascientyst.com/fix-settingwithcopywarning-pandas-value-trying-set-copy/]
+[https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html]
